@@ -1,6 +1,6 @@
-# Mein Projekt
+# ak Code Beispiele API
 
-Dies ist ein Beispielprojekt, das ein Jupyter-Notebook enthält.
+Dieses Projekt enthält ein Jupyter-Notebook mit Code-Beispiele für die ak API Doku.
 
 ## Öffnen in Google Colab
 
