@@ -6,5 +6,5 @@ Dies ist ein Beispielprojekt, das ein Jupyter-Notebook enthält.
 
 Klicke auf den folgenden Knopf, um das Notebook in Google Colab zu öffnen:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://github.com/steffi0202/arztkonsultation/blob/main/try_ak.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([(https://github.com/steffi0202/arztkonsultation/blob/main/try_ak.ipynb)](https://github.com/steffi0202/arztkonsultation/blob/main/try_ak.ipynb))
 
